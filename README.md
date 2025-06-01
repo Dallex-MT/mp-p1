@@ -89,7 +89,7 @@ mp-p1/
 
 1. Clona este repositorio o descarga los archivos:
    ```bash
-   git clone https://github.com/usuario/mp-p1.git
+   git clone https://github.com/Dallex-MT/mp-p1.git
    ```
 
 2. Asegúrate de tener XAMPP instalado en tu sistema. Puedes descargarlo desde [https://www.apachefriends.org/](https://www.apachefriends.org/)
